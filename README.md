@@ -19,7 +19,7 @@ _________________
 ## How to run
 0. Clone the repository and move it to the downloaded directory
 ```
-git clone https://github.com/francescodisalvo05/fastapi-grocery-list.git
+git clone https://github.com/leilabidad/novintek.git
 ```
 1. Create a new folder virtual environment and activate it
 ```
