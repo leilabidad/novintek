@@ -49,4 +49,5 @@ python3 main.py
 ## How to reach me out
 * [`leilabidad@gmail.com`](mailto:leilabidad@gmail.com)
 
-## How to reach push : git push leilabidad master:main
+## How to reach push 
+-git push leilabidad master:main
